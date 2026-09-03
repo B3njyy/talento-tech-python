@@ -10,6 +10,7 @@ Este repositorio reúne los ejercicios que voy realizando durante el curso de Ta
 | 01 | `clase-01/saludo_personalizado.py` | Entrada de texto y saludo personalizado |
 | 02 | `clase-02/tarjeta_presentacion.py` | Entrada de datos, variables y salida organizada |
 | 03 | `clase-03/validacion_datos.py` | Condicionales y validación de datos |
+| 04 | `clase-04/condicionalesII.py` | Condicionales anidados, validación básica de correo y rangos de edad |
 
 ## Cómo ejecutar los ejercicios
 
@@ -20,6 +21,7 @@ python clase-01/personalizado.py
 python clase-01/saludo_personalizado.py
 python clase-02/tarjeta_presentacion.py
 python clase-03/validacion_datos.py
+python clase-04/condicionalesII.py
 ```
 
 ## Estado del proyecto
