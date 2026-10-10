@@ -13,6 +13,8 @@ Este repositorio reúne los ejercicios que voy realizando durante el curso de Ta
 | 04 | `clase-04/condicionalesII.py` | Condicionales anidados, validación básica de correo y rangos de edad |
 | 05 | `clase-05/while.py` | Bucle `while`, validación de ingresos, acumulación y promedio |
 | 06 | `clase-06/bucles.py` | Bucle `for`, listas, validación y normalización de nombres |
+| 07 | `clase-07/listaytuplas.py` | Listas, carga de datos, ordenamiento y recorrido con `for` |
+| 08 | `clase-08/diccionario.py` | Diccionarios, validación y registro de productos y precios |
 | Pre-entregable | `Pre-Entregable/Proyecto.py` | Menú interactivo y gestión básica de productos |
 
 ## Cómo ejecutar los ejercicios
@@ -27,6 +29,8 @@ python clase-03/validacion_datos.py
 python clase-04/condicionalesII.py
 python clase-05/while.py
 python clase-06/bucles.py
+python clase-07/listaytuplas.py
+python clase-08/diccionario.py
 python Pre-Entregable/Proyecto.py
 ```
 
