@@ -16,6 +16,7 @@ Este repositorio reúne los ejercicios que voy realizando durante el curso de Ta
 | 07 | `clase-07/listaytuplas.py` | Listas, carga de datos, ordenamiento y recorrido con `for` |
 | 08 | `clase-08/diccionario.py` | Diccionarios, validación y registro de productos y precios |
 | 09 | `clase-09/funciones.py` | Funciones, menú interactivo y gestión de productos |
+| 10 | `clase-10/funciones_return.py` | Funciones con valores de retorno y gestión modular de productos |
 | Pre-entregable | `Pre-Entregable/Proyecto.py` | Menú interactivo y gestión básica de productos |
 
 ## Cómo ejecutar los ejercicios
@@ -33,6 +34,7 @@ python clase-06/bucles.py
 python clase-07/listaytuplas.py
 python clase-08/diccionario.py
 python clase-09/funciones.py
+python clase-10/funciones_return.py
 python Pre-Entregable/Proyecto.py
 ```
 
