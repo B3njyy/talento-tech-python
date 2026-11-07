@@ -17,7 +17,17 @@ Este repositorio reúne los ejercicios que voy realizando durante el curso de Ta
 | 08 | `clase-08/diccionario.py` | Diccionarios, validación y registro de productos y precios |
 | 09 | `clase-09/funciones.py` | Funciones, menú interactivo y gestión de productos |
 | 10 | `clase-10/funciones_return.py` | Funciones con valores de retorno y gestión modular de productos |
+| 11 | `clase-11/gestion_productos_color.py` | Módulos, fecha y hora, y mensajes con colores mediante `colorama` |
+| 12 | `clase-12/registro_clientes.py` | Lectura y escritura de archivos de texto |
 | Pre-entregable | `Pre-Entregable/Proyecto.py` | Menú interactivo y gestión básica de productos |
+
+## Instalación
+
+La Clase 11 utiliza la librería `colorama`. Para instalarla, se puede ejecutar:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Cómo ejecutar los ejercicios
 
@@ -35,6 +45,8 @@ python clase-07/listaytuplas.py
 python clase-08/diccionario.py
 python clase-09/funciones.py
 python clase-10/funciones_return.py
+python clase-11/gestion_productos_color.py
+python clase-12/registro_clientes.py
 python Pre-Entregable/Proyecto.py
 ```
 
