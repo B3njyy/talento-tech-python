@@ -21,6 +21,7 @@ Este repositorio reúne los ejercicios que voy realizando durante el curso de Ta
 | 12 | `clase-12/registro_clientes.py` | Lectura y escritura de archivos de texto |
 | 13 | `clase-13/base_de_datos.py` | SQLite, creación de tablas, inserción y consulta de productos |
 | Pre-entregable | `Pre-Entregable/Proyecto.py` | Menú interactivo y gestión básica de productos |
+| Entrega final | `EntregaFinal/entrega_final.py` | Sistema de gestión de productos organizado con funciones y SQLite |
 
 ## Instalación
 
@@ -50,6 +51,7 @@ python clase-11/gestion_productos_color.py
 python clase-12/registro_clientes.py
 python clase-13/base_de_datos.py
 python Pre-Entregable/Proyecto.py
+python EntregaFinal/entrega_final.py
 ```
 
 ## Estado del proyecto
