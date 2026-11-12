@@ -19,6 +19,7 @@ Este repositorio reúne los ejercicios que voy realizando durante el curso de Ta
 | 10 | `clase-10/funciones_return.py` | Funciones con valores de retorno y gestión modular de productos |
 | 11 | `clase-11/gestion_productos_color.py` | Módulos, fecha y hora, y mensajes con colores mediante `colorama` |
 | 12 | `clase-12/registro_clientes.py` | Lectura y escritura de archivos de texto |
+| 13 | `clase-13/base_de_datos.py` | SQLite, creación de tablas, inserción y consulta de productos |
 | Pre-entregable | `Pre-Entregable/Proyecto.py` | Menú interactivo y gestión básica de productos |
 
 ## Instalación
@@ -47,6 +48,7 @@ python clase-09/funciones.py
 python clase-10/funciones_return.py
 python clase-11/gestion_productos_color.py
 python clase-12/registro_clientes.py
+python clase-13/base_de_datos.py
 python Pre-Entregable/Proyecto.py
 ```
 
